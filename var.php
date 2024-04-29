@@ -2,7 +2,7 @@
 
 $i = 10;
 
-print $i;
+print $i."\n";
 
 $i = 20;
 

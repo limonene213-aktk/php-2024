@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+  httpd:
+    image: httpd:2.4
+    ports:
+      - '80:80'
+    volumes:
+      - ./htdocs:/var/www/html
+      - ./conf:/usr/local/apache2/conf
+
+  php:
+    image: php:8.3
+    volumes:
+      - ./htdocs:/var/www/html
