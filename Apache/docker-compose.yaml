@@ -1,15 +1,31 @@
-version: '3.3'
+version: '3.8'
 
 services:
-  httpd:
-    image: httpd:2.4
+  web:
+    image: php:8.1-apache
+    container_name: php_apache_server
     ports:
-      - '80:80'
+      - "80:80"
     volumes:
-      - ./htdocs:/var/www/html
-      - ./conf:/usr/local/apache2/conf
+      - ./www:/var/www/html
+    restart: always
 
-  php:
-    image: php:8.3
-    volumes:
-      - ./htdocs:/var/www/html
+  # MySQLサービスの追加が必要な場合はコメントを解除してください
+  # db:
+  #   image: mysql:5.7
+  #   container_name: mysql_server
+  #   environment:
+  #     MYSQL_ROOT_PASSWORD: root
+  #     MYSQL_DATABASE: exampledb
+  #     MYSQL_USER: user
+  #     MYSQL_PASSWORD: password
+  #   ports:
+  #     - "3306:3306"
+  #   volumes:
+  #     - db_data:/var/lib/mysql
+  #   restart: always
+
+# データベース用のボリューム設定
+#volumes:
+#  db_data:
+
