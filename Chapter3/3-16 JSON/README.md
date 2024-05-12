@@ -88,6 +88,7 @@ $json = json_encode($utf8Data, JSON_UNESCAPED_UNICODE);
 $decodedData = json_decode($json, true);
 $correctEncodingData = mb_convert_encoding($decodedData, 'UTF-8', 'auto');
 ```
+ここでいう'auto'は、元の文字コードを自動判別するという意味です。このように設定することにより、あらゆる文字列を自動的にUTF-8に統一することができます。
 
 
 ### 配列とオブジェクト
