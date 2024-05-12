@@ -67,7 +67,27 @@ B.キーに使えるのは文字列のみで、数字、オブジェクト、配
 ```
 
 ### エンコーディング
-基本的にUTF-8を使用するのが「お作法」です
+基本的にUTF-8を使用するのが「お作法」です。
+なお、JSONはUTF-8が基本ですが、PHPで扱う文字エンコードが常にこうなっているとは限りません。ですから、相互変換をする際には以下のように文字コードをUTF-8に保つ必要があります。
+
+A.mb_convert_encoding管数の利用：
+```PHP
+$data = array('name' => 'ジャック');
+$utf8Data = mb_convert_encoding($data, 'UTF-8', 'auto'); // 自動で元のエンコーディングを検出してUTF-8に変換
+$json = json_encode($utf8Data);
+```
+
+B.JSON_UNESCAPED_UNICODEオプションの利用：
+```PHP
+$json = json_encode($utf8Data, JSON_UNESCAPED_UNICODE);
+```
+
+特にjson_decode() を使用した後、データが期待するエンコーディングであるかを確認し、必要に応じてエンコーディングを変換する必要がある場合が多いです：
+```PHP
+$decodedData = json_decode($json, true);
+$correctEncodingData = mb_convert_encoding($decodedData, 'UTF-8', 'auto');
+```
+
 
 ### 配列とオブジェクト
 
