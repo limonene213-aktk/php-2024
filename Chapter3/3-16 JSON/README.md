@@ -2,7 +2,8 @@
 
 ## JSONとは？
 
-JSON（JavaScript Object Notation）は、データをテキスト形式で保存したり、データ交換をする際に使われるフォーマットです。JSONはJavaScriptのオブジェクトの構文を基にしていますが、多くのプログラミング言語で使えるように設計されています。そのため、Web開発でよく使用されています。
+JSON（JavaScript Object Notation）は、データをテキスト形式で保存したり、データ交換をする際に使われるフォーマットです。
+JSONはJavaScriptのオブジェクトの構文を基にしていますが、多くのプログラミング言語で使えるように設計されています。そのため、Web開発でよく使用されています。
 JSONは、データの階層構造を表すことができるため、いろんな情報を便利に効率よくまとめることができます。
 
 ## JSONの基本的な構造
@@ -87,6 +88,7 @@ $json = json_encode($utf8Data, JSON_UNESCAPED_UNICODE);
 $decodedData = json_decode($json, true);
 $correctEncodingData = mb_convert_encoding($decodedData, 'UTF-8', 'auto');
 ```
+ここでいう'auto'は、元の文字コードを自動判別するという意味です。このように設定することにより、あらゆる文字列を自動的にUTF-8に統一することができます。
 
 
 ### 配列とオブジェクト
