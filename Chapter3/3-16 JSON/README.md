@@ -71,7 +71,7 @@ B.キーに使えるのは文字列のみで、数字、オブジェクト、配
 基本的にUTF-8を使用するのが「お作法」です。
 なお、JSONはUTF-8が基本ですが、PHPで扱う文字エンコードが常にこうなっているとは限りません。ですから、相互変換をする際には以下のように文字コードをUTF-8に保つ必要があります。
 
-A.mb_convert_encoding管数の利用：
+A.mb_convert_encoding関数の利用：
 ```PHP
 $data = array('name' => 'ジャック');
 $utf8Data = mb_convert_encoding($data, 'UTF-8', 'auto'); // 自動で元のエンコーディングを検出してUTF-8に変換
@@ -121,7 +121,7 @@ $correctEncodingData = mb_convert_encoding($decodedData, 'UTF-8', 'auto');
 
 
 ## 連想配列とJSON
-なお、連想配列はそれ自体が階層構造の情報を持っています。つまり、連想配列とJSONはそれぞれが近いものと言えるでしょう。ですから、連想配列からJSONを作ったり（json_encode管数）逆にJSONから連想配列に直したり（json_decode管数）することもできます。各自、以下の例を実行してみましょう。
+なお、連想配列はそれ自体が階層構造の情報を持っています。つまり、連想配列とJSONはそれぞれが近いものと言えるでしょう。ですから、連想配列からJSONを作ったり（json_encode関数）逆にJSONから連想配列に直したり（json_decode関数）することもできます。各自、以下の例を実行してみましょう。
 
 例：
 
