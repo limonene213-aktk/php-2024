@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T03:00:59.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="quy1InJha1L_axvCf2ue" version="24.3.1" type="device">
+  <diagram name="ページ1" id="5pe5hyxbeuPcWXtfFQyT">
+    <mxGraphModel dx="983" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-9" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="250" y="255" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;謎文字コード&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/php-128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="140" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-3" value="わしゃ何でもいけるんじゃ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="158" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-5" value="ナウでヤングなオレは&lt;br&gt;UTF-8のみ対応だぜ！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ggM_l2_rPT8d8qjS-BaY-6" target="ggM_l2_rPT8d8qjS-BaY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-7" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;mb_convert_encoding関数さん&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-8" value="全てを受け入れて&lt;div&gt;必要な文字コードに&lt;br&gt;してあげるよ！&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="ggM_l2_rPT8d8qjS-BaY-9" target="ggM_l2_rPT8d8qjS-BaY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="315" />
+              <mxPoint x="380" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ggM_l2_rPT8d8qjS-BaY-4" target="ggM_l2_rPT8d8qjS-BaY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-14" value="システム" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.central_administration_site_sql" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-15" value="&lt;b&gt;謎コードしか&lt;br&gt;わかんねぇ・・・&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="ggM_l2_rPT8d8qjS-BaY-1" target="ggM_l2_rPT8d8qjS-BaY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-17" value="JSONの登場により、システム全体を新しくするよりは、&lt;br&gt;mb_convert_encoding関数さんに助けてもらったほうが&lt;br&gt;全員がしあわせになれます。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="375" width="320" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" edge="1" parent="1" source="ggM_l2_rPT8d8qjS-BaY-18" target="ggM_l2_rPT8d8qjS-BaY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-26" value="一方向のみ！" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ggM_l2_rPT8d8qjS-BaY-24">
+          <mxGeometry x="0.488" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-18" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-19" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&amp;nbsp;JSON_UNESCAPED_UNICODEさん&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-20" value="UTF-8に変換する&lt;br&gt;エキスパートです！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-21" value="変換先は選べません、UTF-8への変換のみです。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;mb_convert_encoding&lt;/span&gt;(&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;$data&lt;/span&gt;,&amp;nbsp;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;UTF-8&#39;&lt;/span&gt;,&amp;nbsp;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;auto&#39;&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggM_l2_rPT8d8qjS-BaY-23" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;（&lt;font color=&quot;#33ffff&quot;&gt;変換したい元データ&lt;/font&gt;,&lt;font color=&quot;#ff8000&quot;&gt;変換したい文字コード&lt;/font&gt;,&lt;font color=&quot;#ff8000&quot;&gt;&#39;auto&#39;&lt;/font&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;の形&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
