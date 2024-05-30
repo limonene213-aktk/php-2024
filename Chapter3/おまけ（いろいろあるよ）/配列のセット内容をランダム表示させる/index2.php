@@ -5,7 +5,7 @@
 <body>
 <?php
 
-$rand = rand(0, 10);
+$rand = rand(0, 3);
 
 $genshin = array("魈","胡桃","エウルア","アンバー");
 ?>
