@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>PHPとHTMLの連携の例2</title>
+</head>
+<body>
+    <h1>HTMLとPHPの連携を学ぼうドットコム</h1>
+    <!--新しいHTMLを書いてもらうPHPくんをaction属性で指名-->
+    <form action="html-echo.php" method="post">
+        <!--ラベル-->
+        <label for="input">インプット：</label>
+        <!--入力欄を実装-->
+        <input type="text" id="input" name="input">
+        
+        <!--ラベル2-->
+        <label for="input2">インプット2：</label>
+        <!--入力欄を実装-->
+        <input type="text" id="input2" name="input2">
+
+        <!--送信ボタン-->
+        <input type="submit" value="送信">
+    </form>
+</body>
+</html>
