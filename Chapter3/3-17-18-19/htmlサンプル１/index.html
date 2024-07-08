@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>PHPとHTMLの連携</title>
+</head>
+<body>
+    <h1>名前入力フォーム</h1>
+    <form action="process.php" method="post">
+        
+        <!--ラベル-->
+        <label for="name">名前:</label>
+
+        <!--
+            名前の入力欄
+            idはCSSやJSが参照する要素
+            nameはPHPが参照する要素
+        -->
+        <input type="text" id="name" name="user_name">
+        
+        <!--ラベル-->
+        <label for="email">メールアドレス:</label>
+        <!--
+            メールの入力欄
+            要素の意味は名前の入力欄と同じ
+        -->
+        <input type="text" id="email" name="email">
+        
+        <p>
+            <!--ラベル-->
+            <label for="gender">性別:</label>
+
+            <!--
+                ラジオボタン（ひとつだけ選択するもの）
+                nameが同じになっているので、ひとつのグループだとわかる
+            -->
+            <input type="radio" id="male" name="gender" value="male">男性 / 
+            <input type="radio" id="female" name="gender" value="female">女性 /
+            <input type="radio" id="other" name="gender" value="other">その他
+        </p>
+        
+        <!--送信ボタン-->
+        <input type="submit" value="送信">
+    </form>
+</body>
+</html>
