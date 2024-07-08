@@ -3,9 +3,10 @@
     "age":30,
     "city":"New York"
     }
-
+/*
 $person = array(
     "name" => "John",
     "age" => 30,
     "city" => "New York"
 );
+*/

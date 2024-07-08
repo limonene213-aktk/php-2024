@@ -7,6 +7,6 @@ if($_SERVER['REQUEST_METHOD'] === 'GET'
     echo "サーバー側でGETリクエストを受信しました！";
 
     //クライアント側にお返事を書く
-    file_put_contents('php://stdout',"GETリクエストを受け取ったぽよ～。");
+    echo "GETリクエストを受け取ったぽよ～。";
 }
 ?>
