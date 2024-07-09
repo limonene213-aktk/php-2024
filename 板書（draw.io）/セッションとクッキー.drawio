@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T01:53:03.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="n9xmYEShZwRuX_CWH1mv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T02:37:43.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ed1tBP2psUb1oZNNNgH3" version="24.6.4" type="github" pages="2">
   <diagram name="ページ1" id="-AZHssFs66LLgGf8EMIU">
     <mxGraphModel dx="989" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,6 +255,54 @@
         </mxCell>
         <mxCell id="hfXmXHoH8Cfm0-PpdlyW-32" value="インターネットは世界に１つなので、&lt;br&gt;グローバルIPは世界に１個しかない！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="381.07" y="2280" width="227.86" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S0ZtxSvyTVIkl7HekOM0" name="ページ2">
+    <mxGraphModel dx="1420" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2lYenDMfA8N6YShKFMY3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2lYenDMfA8N6YShKFMY3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-1" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;lt;?php&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;$value&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;変数に保存した値です&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;setcookie&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;save_message&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;Cookieに保存した値です&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;time&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;()&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;60&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;*&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;60&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;*&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;24&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;*&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;14&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;);&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;?&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="630" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-2" value="3-24..php" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;href&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;page02.php&quot;&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;Page02へ&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;href&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;page02.php&quot;&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;Page02へ&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" id="2lYenDMfA8N6YShKFMY3-3">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="340" y="340" width="270" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-5" value="3-24..php" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-7" value="ページ遷移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-8" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;pre&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;変数の値：&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;lt;?php&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;$value&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;);&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;?&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;Cookieの値：&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;lt;?php&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;$_COOKIE&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;save_message&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;]);&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;?&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;pre&lt;/span&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="480" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-9" value="page02.php" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="460" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-10" value="&lt;pre&gt;変数の値：&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $value in &lt;b&gt;C:\xampp\htdocs\page02.php&lt;/b&gt; on line &lt;b&gt;8&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Cookieの値：&lt;font color=&quot;#0000ff&quot;&gt;Cookieに保存した値です&lt;/font&gt;&lt;/pre&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipV=1;align=left;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="510" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-11" value="$valueとcookieの内容を作って値を保存" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=50;position=0.57;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-13" value="ページ遷移を挟むと、&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;$valueの内容は消えた（undefined）&lt;/font&gt;のに対して、&lt;font color=&quot;#0000ff&quot;&gt;cookieの内容は引き継がれた&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.17;size=50;position=0.5;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="480" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2lYenDMfA8N6YShKFMY3-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="400" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
