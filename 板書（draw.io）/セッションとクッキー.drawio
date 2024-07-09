@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T02:52:17.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="yqC1wUvWfl1ihrHe5cD1" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-09T03:00:09.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="cTE4VqPP4vK1cR1R9j2L" version="24.6.4" type="github" pages="2">
   <diagram name="ページ1" id="-AZHssFs66LLgGf8EMIU">
     <mxGraphModel dx="979" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
         <mxCell id="hfXmXHoH8Cfm0-PpdlyW-24" value="インターネット回線" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="437.14" y="2130" width="127.48" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hfXmXHoH8Cfm0-PpdlyW-25" value="100.150.22.13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="hfXmXHoH8Cfm0-PpdlyW-25" value="120.150.22.13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="367" y="2188" width="92.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfXmXHoH8Cfm0-PpdlyW-26" value="120.99.65.11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
