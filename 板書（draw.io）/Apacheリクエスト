@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" modified="2024-07-09T04:16:37.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Sn_6OS5SI7bkQueqmSob" version="24.6.4" type="github">
+  <diagram name="ページ1" id="BJ1xhMuOUa7fVKKs-U71">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="smAzb_seA-hiDQqbeu9l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="smAzb_seA-hiDQqbeu9l-4" target="smAzb_seA-hiDQqbeu9l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="140" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="smAzb_seA-hiDQqbeu9l-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="752" y="440" />
+              <mxPoint x="240" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-1" value="FW" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdPWfOvz0ENrneV1vgMEjLasv8MeBJ1V_0fljb_PhGI_Un-3sJc7fhj2qvTUAGwxd7twaG6nz4CQwHZ-inlFaSL8FXS0FzbqoiXkZyfAhhMRcsZRpIv95GbzqWXPIzQQ2XPd5JL9Qd1BS/s400/job_keibiin_man_.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="104.4" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="smAzb_seA-hiDQqbeu9l-2" target="smAzb_seA-hiDQqbeu9l-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="110" />
+              <mxPoint x="752" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-2" value="クライアント" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPSEw_sWyY5KgP85cF-fNJbxc4F0TXdZ8TkP3JTnGyIdwaGy_uVR1J4iwx6i2mPSc29QtFNO9IDQ6AFf-4PcYkmnkCXAu264TNS0FtYtdcmhf1oJ4G7YQ63X_PdMEd4Ifrh_DeXu5c-g/s350/computer_man1_smile.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="185" width="103.29" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1920px-Apache_HTTP_server_logo_%282019-present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="921.7" y="226.3" width="176.59" height="67.4" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-6" value="サーバー" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-12" value="はいよ！（処理）" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="50" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-13" value="PORT 80の&lt;br&gt;HTTPアクセス、よし！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-14" value="リクエスト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-15" value="応答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-16" value="LAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="smAzb_seA-hiDQqbeu9l-18" target="smAzb_seA-hiDQqbeu9l-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="610" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="smAzb_seA-hiDQqbeu9l-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="910" />
+              <mxPoint x="240" y="910" />
+            </Array>
+            <mxPoint x="240" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-20" value="FW" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdPWfOvz0ENrneV1vgMEjLasv8MeBJ1V_0fljb_PhGI_Un-3sJc7fhj2qvTUAGwxd7twaG6nz4CQwHZ-inlFaSL8FXS0FzbqoiXkZyfAhhMRcsZRpIv95GbzqWXPIzQQ2XPd5JL9Qd1BS/s400/job_keibiin_man_.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="640" width="104.4" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" target="smAzb_seA-hiDQqbeu9l-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="580" />
+              <mxPoint x="752" y="580" />
+            </Array>
+            <mxPoint x="241.70000000000005" y="655" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1920px-Apache_HTTP_server_logo_%282019-present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="921.7" y="696.3" width="176.59" height="67.4" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-24" value="サーバー" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-25" value="ZZZ...&lt;br&gt;（返答できない）" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="520" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-26" value="PORT 80の&lt;br&gt;HTTPアクセス、よし！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="610" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-27" value="リクエスト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-28" value="返送されない" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-29" value="LAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-30" value="クライアント" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8442mQYKdoOINn6xcbV3oJHeok_MufrUt5L9esAaa4LWrfGjGIEkNLnbo0zivl5VmiJ-zK_LTPPkMxfZqbnZaC7G56mhrhkYcKHQTPt7PO6uE29sl_akAFaMgbvIhkgKETBVacRm2ms/s350/computer_man3_cry.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="103.29" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-32" value="ページが見れない" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="616.3" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-33" value="ページが見れる！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="157.99999999999994" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-34" value="正常な状態" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-35" value="サーバーが落ちている状態" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smAzb_seA-hiDQqbeu9l-36" value="404" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="445" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
