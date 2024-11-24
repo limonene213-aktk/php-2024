@@ -3,7 +3,7 @@
 # PHP基本文法サンプルコード
 PHPの授業で取り扱った基本文法です。
 
-資料のまとめ（Wiki）には以下のURLからアクセスできます。
+資料のまとめ（Wiki）には以下のURLからアクセスできます。  
 https://github.com/limonene213-aktk/php-2024/wiki
 
 ## About this repository
