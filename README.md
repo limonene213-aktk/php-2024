@@ -7,4 +7,4 @@ PHPの授業で取り扱った基本文法です。
 https://github.com/limonene213-aktk/php-2024/wiki
 
 ## About this repository
-©広島県障害者職業能力開発校 情報科 伊藤あきら
+伊藤あきら
